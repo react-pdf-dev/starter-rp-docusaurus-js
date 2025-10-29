@@ -1,6 +1,6 @@
 # React PDF Starter Toolkit in Docusaurus and JavaScript
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/react-pdf-dev/starter-rp-docusaurus-js)
+[![Open example in codesandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/react-pdf-dev/starter-rp-docusaurus-js/main)
 
 Welcome to the React PDF Starter Toolkit! This repository provides a comprehensive guide on integrating React PDF with Docusaurus and JavaScript. It showcases how React PDF can be integrated and rendered as part of a React.js project.
 
